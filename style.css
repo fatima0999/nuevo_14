@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: black;
+}
+#miDiv{
+    text-align: center;
+
+
+}
+
+
+@media screen and(max-width:540px){
+.left
+.main
+.right{
+  width: 100%;
+
+    }
+}
